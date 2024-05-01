@@ -1,9 +1,4 @@
-import { useCallback, useEffect, useMemo, useState } from 'react';
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
 import './App.css';
-import { arr } from './utils/generateArr';
-import Search from './Search';
 
 function App() {
   const a = { b: '3' };
